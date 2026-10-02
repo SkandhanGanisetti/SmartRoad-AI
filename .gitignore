@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.env
+.DS_Store
+smartroad.db
+data/uploads/*
+!data/uploads/.gitkeep
+data/repairs/*
+!data/repairs/.gitkeep
+ml/*.pt
